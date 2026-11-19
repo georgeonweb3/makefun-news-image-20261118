@@ -6,8 +6,10 @@ make.fun contest `news-image-20261118` — $250, Growth. One image summing up
 ## The image
 
 1024×1024 PNG, drawn programmatically by `draw.py` (Pillow + Noto Sans,
-flat vector icons, no photos, no scraped art). Header names the day;
-six panels cover the day's biggest stories across regions and beats:
+flat vector icons, no photos, no scraped art). Header names the day; a
+large hero panel leads with the day's biggest story (the Hormuz strikes,
+drawn as a full-bleed dusk scene with explosion, missile streaks, sea and
+tanker), and five smaller cards below cover the rest:
 
 1. **Middle East** — US jets strike an Iranian missile site on Qeshm Island
    in the Strait of Hormuz; Iran hits back at US bases in Kuwait and Bahrain.
